@@ -1,9 +1,0 @@
-Ler o arquivo contendo a quantidade de rodadas e as informações dos macaquinhos
-Criar instâncias de macaquinhos para armazenar essas informações
-para cada rodada desejada:
-	para cada macaquinho do jogo:
-		para cada coco de cada macaquinho:
-			caso a quantidade de pedrinhas seja par, enviar seu destino
-			se não, enviar para seu destino impar
-após fazer todas as viagens dos cocos, verificar qual macaquinho possui a maior quantidade de cocos
-escrever qual o macaquinho ganhador
